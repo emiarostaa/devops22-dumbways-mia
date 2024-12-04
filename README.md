@@ -1,3 +1,4 @@
+
 Devops adalah 
 Penghubung tim development and operation yg bertugas mempercepat proses development hingga rilis produk ke public
 Pekerjaan devops divisialisasikan sebagai proses loop tak terbatas yang terdiri dari :
